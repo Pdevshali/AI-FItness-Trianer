@@ -4,3 +4,5 @@ Major-report_new.docx
 Major-report_new.pdf
 Major-report.docx
 .venv/
+git rm --cached Major-report_new.docx
+
