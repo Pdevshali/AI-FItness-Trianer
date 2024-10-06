@@ -1,6 +1,6 @@
-sqt.mp4
-vid.mp4
-app2.
+*.mp4
+app2.py
 Major-report_new.docx
 Major-report_new.pdf
 Major-report.docx
+.venv/
